@@ -23,3 +23,5 @@ I figured out that it is because the open-vm-tool didn't work well. It can be so
 systemctl restart vmtoolsd.service
 ```
 See more about this issue at [here](https://tieba.baidu.com/p/6067387264?traceid=&red_tag=3512017473).
+
+I don't want to be bothered, so I swiched to Virtual Box.
