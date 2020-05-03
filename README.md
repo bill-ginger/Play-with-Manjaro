@@ -9,6 +9,7 @@ You can see more about Manjaro at [wikipedia](https://en.wikipedia.org/wiki/Manj
 
 The desktop environment I use is KDE, because I think it's beautiful and I want to learn about it. I have been quite familiar with gnome by using Ubuntu.
 
+### The environment I use
 I once installed Manjaro KDE on a physical machine, wanting to use it as a daily productive system, but I encountered problems concerning wine, so I dropped.
 
 Now in this repo, I will play with Manjaro in a virtual machine.
